@@ -1,4 +1,4 @@
 # Hall of fame
 
-https://www.mimecast.com/responsible-disclosure/
-https://mattermost.com/security-vulnerability-report/
+1. https://www.mimecast.com/responsible-disclosure/
+1. https://mattermost.com/security-vulnerability-report/
